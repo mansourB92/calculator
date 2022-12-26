@@ -1,4 +1,3 @@
-# import math
 num1 = int(input("input frist number = \t"))
 op = input("\ninput operator : \t")
 num2 = int(input("\ninput secound number = \t"))
